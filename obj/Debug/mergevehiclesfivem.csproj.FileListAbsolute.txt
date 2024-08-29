@@ -1,0 +1,10 @@
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\bin\Debug\mergevehiclesfivem.exe.config
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\bin\Debug\mergevehiclesfivem.exe
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\bin\Debug\mergevehiclesfivem.pdb
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\obj\Debug\mergevehiclesfivem.csproj.AssemblyReference.cache
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\obj\Debug\mergevehiclesfivem.Form1.resources
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\obj\Debug\mergevehiclesfivem.Properties.Resources.resources
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\obj\Debug\mergevehiclesfivem.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\obj\Debug\mergevehiclesfivem.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\obj\Debug\mergevehiclesfivem.exe
+C:\Users\Angelo\source\repos\mergevehiclesfivem\mergevehiclesfivem\obj\Debug\mergevehiclesfivem.pdb
