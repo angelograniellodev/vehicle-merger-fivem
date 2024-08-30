@@ -114,7 +114,6 @@ namespace mergevehiclesfivem
                 {
                     string fileName = Path.GetFileName(file);
                     string extension = Path.GetExtension(file).ToLower();
-
                     if (extension == ".meta")
                     {
                         File.Copy(file, Path.Combine(vehicleDataFolder, fileName), true);
@@ -172,11 +171,11 @@ namespace mergevehiclesfivem
                 writer.WriteLine("");
                 writer.WriteLine("files {\r\n'data/**/*.meta',\r\n}");
                 writer.WriteLine("");
-                writer.WriteLine("data_file 'VEHICLE_METADATA_FILE' 'vehicles.meta'");
-                writer.WriteLine("data_file 'CARCOLS_FILE' 'carcols.meta'");
-                writer.WriteLine("data_file 'VEHICLE_VARIATION_FILE' 'carvariations.meta'");
-                writer.WriteLine("data_file 'HANDLING_FILE' 'handling.meta'");
-                writer.WriteLine("data_file 'VEHICLE_LAYOUTS_FILE' 'vehiclelayouts.meta'");
+                writer.WriteLine("data_file 'HANDLING_FILE' 'data/**/handling.meta'");
+                writer.WriteLine("data_file 'VEHICLE_LAYOUTS_FILE' 'data/**/vehiclelayouts.meta'");
+                writer.WriteLine("data_file 'VEHICLE_METADATA_FILE' 'data/**/vehicles.meta'");
+                writer.WriteLine("data_file 'CARCOLS_FILE' 'data/**/carcols.meta'");
+                writer.WriteLine("data_file 'VEHICLE_VARIATION_FILE' 'data/**/carvariations.meta'");
             }
         }
 
